@@ -4,6 +4,7 @@ scoe:
 spyr: 
   url: https://stentor.ciliate.org/common/downloads/stentor/stentor_pyriformis.gff
   name: "Stentor pyriformis"
+  note: "Gene prediction contains no introns"
 tthe: 
   url: https://tet.ciliate.org/common/downloads/tet/latest/Tetrahymena_thermophila_mac_genome_v5.gff3
   name: "Tetrahymena thermophila"
