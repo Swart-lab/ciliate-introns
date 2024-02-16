@@ -1,0 +1,57 @@
+scoe: 
+  url: https://stentor.ciliate.org/common/downloads/stentor/S_coeruleus_Nov2016.gff3
+  name: "Stentor coeruleus"
+spyr: 
+  url: https://stentor.ciliate.org/common/downloads/stentor/stentor_pyriformis.gff
+  name: "Stentor pyriformis"
+tthe: 
+  url: https://tet.ciliate.org/common/downloads/tet/latest/Tetrahymena_thermophila_mac_genome_v5.gff3
+  name: "Tetrahymena thermophila"
+tbor: 
+  url: https://tet.ciliate.org/common/downloads/tet/other/Tetrahymena_borealis_mac_genome_v1.gff3
+  name: "Tetrahymena borealis"
+tell: 
+  url: https://tet.ciliate.org/common/downloads/tet/other/Tetrahymena_elliotti_mac_genome_v1.gff3
+  name: "Tetrahymena elliotti"
+tmal: 
+  url: https://tet.ciliate.org/common/downloads/tet/other/Tetrahymena_malaccensis_mac_genome_v1.gff3
+  name: "Tetrahymena malaccensis"
+evan: 
+  url: https://evan.ciliate.org/common/downloads/evan/Euplotes_vannus_Mar2018.gff3
+  name: "Euplotes vannus"
+slem: 
+  url: https://stylo.ciliate.org/common/downloads/stylo/stylo.gff3
+  name: "Stylonychia lemnae"
+pcar: 
+  url: https://pse.ciliate.org/common/downloads/pse/Pse_carnea_Jun2021.gff3
+  name: "Pseudokeronopsis carnea"
+pfla: 
+  url: https://pse.ciliate.org/common/downloads/pse/Pse_flava_Jun2021.gff3
+  name: "Pseudokeronopsis flava"
+otri: 
+  url: https://oxy.ciliate.org/common/downloads/oxy/O_trifallax_2020-upd3.gff3
+  name: "Oxytricha trifallax"
+bsto: 
+  url: https://bleph.ciliate.org/common/downloads/bleph/Bsto_ATCC_MAC_Jan_09_2022.gff
+  name: "Blepharisma stoltei"
+imul: 
+  url: https://ich.ciliate.org/common/downloads/ich/img1_0407.gff3
+  name: "Ichthyophthirius multifiliis"
+ptet: 
+  url: https://paramecium.i2bc.paris-saclay.fr/files/Paramecium/tetraurelia/51/annotations/ptetraurelia_mac_51/ptetraurelia_mac_51_annotation_v2.0.gff3
+  name: "Paramecium tetraurelia"
+pbia: 
+  url: https://paramecium.i2bc.paris-saclay.fr/files/Paramecium/biaurelia/V1-4/annotations/biaurelia_V1_4_assembly_v1/pbiaurelia_V1-4_annotation_v2.0.gff3
+  name: "Paramecium biaurelia"
+pbur: 
+  url: https://paramecium.i2bc.paris-saclay.fr/files/Paramecium/bursaria/HK1/annotations/pbursaria_HK1_mac_JV3_6_diploid_v1_0/pbursaria_HK1_mac_JV3_4_annotation_v1.0.gff3
+  name: "Paramecium bursaria"
+pcau: 
+  url: https://paramecium.i2bc.paris-saclay.fr/files/Paramecium/caudatum/43c3d/annotations/caudatum_43c3d_assembly_v1/pcaudatum_43c3d_annotation_v2.0.gff3
+  name: "Paramecium caudatum"
+pson: 
+  url: https://paramecium.i2bc.paris-saclay.fr/files/Paramecium/sonneborni/ATCC_30995/annotations/psonneborni_mac_ATCC_30995_v1_0/psonneborni_ATCC_30995_annotation_v1.0.gff3
+  name: "Paramecium sonneborni"
+ecau:
+  name: "Entodinium caudatum"
+  note: "Pers comm from Zhongtang Yu"
