@@ -1,0 +1,12 @@
+name: bio-env
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - minimap2
+  - hisat2
+  - samtools
+  - pysam=0.21.0
+  - spades>=3.14
+  - trinity>=2.15
