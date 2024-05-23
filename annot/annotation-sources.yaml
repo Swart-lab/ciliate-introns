@@ -1,3 +1,5 @@
+lmag:
+  name: "Loxodes magnus"
 scoe: 
   url: https://stentor.ciliate.org/common/downloads/stentor/S_coeruleus_Nov2016.gff3
   name: "Stentor coeruleus"
@@ -56,3 +58,8 @@ pson:
 ecau:
   name: "Entodinium caudatum"
   note: "Pers comm from Zhongtang Yu"
+ecau2:
+  name: "Entodinium caudatum (reannotation)"
+bcte:
+  name: "Balantidium ctenopharygodoni"
+  note: "https://doi.org/10.6084/m9.figshare.24439159.v2"
