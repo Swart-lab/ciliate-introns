@@ -1,0 +1,2237 @@
+{
+    "head": {
+        "vars": [
+            "protein",
+            "genename",
+            "taxon",
+            "sciname",
+            "orthogroup"
+        ]
+    },
+    "results": {
+        "bindings": [
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "BRR1"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q99177"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/2018273at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "BRR2"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P32639"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/57056at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "BUD13"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P46947"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/38395at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "BUD31"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P25337"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/124967at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "CBC2"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q08920"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/5880at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "CDC40"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P40968"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/148364at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "CEF1"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q03654"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/131128at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "CLF1"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q12309"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/5479069at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "CUS1"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q02554"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/5476818at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "CUS2"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P53830"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/10213at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "CWC15"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q03772"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/1442599at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "CWC2"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q12046"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/929875at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "CWC21"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q03375"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/25337at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "CWC22"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P53333"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/1115942at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "CWC23"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P52868"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/3538412at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "CWC24"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P53769"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/21858at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "CWC25"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P53854"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/12277at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "CWC27"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q02770"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/1328057at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "DIB1"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q06819"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/3939228at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "DRN1"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P53255"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/379273at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "ECM2"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P38241"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/929875at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "FAL1"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q12099"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/1087080at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "HSH155"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P49955"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/226540at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "HSH49"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q99181"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/21912at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "IST3"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P40565"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/168812at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "ISY1"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P21374"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/276183at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "JIP4"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q03361"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/1968476at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "LEA1"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q08963"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/146419at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "LIN1"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P38852"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/2025601at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "LOT5"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P34234"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/2009320at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "LSM2"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P38203"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/101568at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "LSM3"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P57743"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/5485754at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "LSM4"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P40070"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/1381922at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "LSM5"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P40089"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/275126at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "LSM6"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q06406"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/412at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "LSM7"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P53905"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/5471183at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "LSM8"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P47093"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/2032558at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "LUC7"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q07508"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/3145682at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "MAK31"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P23059"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/2028687at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "MSL1"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P40567"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/227381at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "MSL5"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q12186"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/1397at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "MUD1"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P32605"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/227381at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "MUD2"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P36084"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/101932at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "NAM8"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q00539"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/129910at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "NTC20"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P38302"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/2022891at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "NTR2"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P36118"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/2026310at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PML1"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q07930"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/9299at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PRP11"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q07350"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/5475496at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PRP16"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P15938"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/3682876at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PRP18"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P33411"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/199348at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PRP19"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P32523"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/130592at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PRP2"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P20095"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/3682876at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PRP21"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P32524"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/168687at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PRP22"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P24384"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/3682876at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PRP24"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P49960"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/3035286at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PRP28"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P23394"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/5487240at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PRP3"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q03338"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/5489218at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PRP31"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P49704"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/4493115at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PRP38"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q00723"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/2032306at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PRP39"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P39682"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/4565325at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PRP4"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P20053"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/5476798at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PRP40"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P33203"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/25674at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PRP42"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q03776"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/4565325at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PRP43"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P53131"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/3682876at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PRP45"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P28004"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/5490078at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PRP46"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q12417"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/118158at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PRP5"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P21372"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/5477821at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PRP6"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P19735"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/655233at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PRP8"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P33334"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/246127at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "PRP9"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P19736"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/5483967at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "RDS3"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q06835"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/5470715at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "RIM4"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P38741"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/1334235at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "RSE1"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q04693"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/101343at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "SAD1"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P43589"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/719409at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "SLU7"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q02775"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/1127886at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "SMB1"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P40018"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/5475294at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "SMD1"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q02260"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/1092654at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "SMD2"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q06217"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/5485754at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "SMD3"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P43321"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/5474715at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "SME1"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q12330"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/5113494at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "SMX2"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P40204"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/167297at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "SMX3"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P54999"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/20767at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "SNP1"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q00916"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/180547at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "SNT309"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q06091"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/2014059at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "SNU114"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P36048"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/166721at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "SNU13"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P39990"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/5481533at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "SNU23"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q12368"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/5485962at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "SNU56"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q03782"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/2019931at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "SNU66"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q12420"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/24344at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "SNU71"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P53207"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/2027173at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "SPP2"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q02521"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/55448at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "SPP381"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P38282"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/2032776at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "SPP382"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q06411"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/3060898at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "STO1"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P34160"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/5477544at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "SUB2"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q07478"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/1087080at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "SYF1"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q04048"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/1130725at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "SYF2"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P53277"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/2013410at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "URN1"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q06525"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/2051897at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "YHC1"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/Q05900"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/5490378at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "YJU2"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P28320"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/5479476at2759"
+                }
+            },
+            {
+                "sciname": {
+                    "type": "literal",
+                    "value": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+                },
+                "genename": {
+                    "type": "literal",
+                    "value": "YSF3"
+                },
+                "protein": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/uniprot/P0C074"
+                },
+                "taxon": {
+                    "type": "uri",
+                    "value": "http://purl.uniprot.org/taxonomy/559292"
+                },
+                "orthogroup": {
+                    "type": "uri",
+                    "value": "http://purl.orthodb.org/odbgroup/311439at2759"
+                }
+            }
+        ]
+    }
+}
