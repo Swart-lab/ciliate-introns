@@ -75,8 +75,8 @@ reanalysis.
 
 *Enterocytozoon bieneusi*. No public RNA-Seq data were found on SRA.
 Publications that reported lack of introns only performed genome sequencing
-(https://doi.org/10.1371%2Fjournal.ppat.1000261,
-https://doi.org/10.1093%2Fgbe%2Fevq022) and used homology- and modeling-based
+(https://doi.org/10.1371/journal.ppat.1000261,
+https://doi.org/10.1093/gbe/evq022) and used homology- and modeling-based
 methods for intron detection, so we could not include them in our current
 analysis. Note also that other *Enterocytozoon* species do have introns
 (https://doi.org/10.1038/ncomms1082).
